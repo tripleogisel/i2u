@@ -61,6 +61,10 @@ h1 {
   	margin: .5rem 2rem 2rem 2rem;
   }
 
+  .mainTing p {
+    font-size: 1.5rem;
+  }
+
   body {
     display: block;
       position: relative;
